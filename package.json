@@ -1,0 +1,15 @@
+{
+  "name": "diapositivas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md --css style.css ./ --port 2000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^3.0.4"
+  }
+}
