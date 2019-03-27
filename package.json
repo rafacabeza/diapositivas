@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "reveal-md --css style.css ./ --port 2000"
+    "start": "reveal-md --css style.css ./README.md --port 2000"
   },
   "keywords": [],
   "author": "",
