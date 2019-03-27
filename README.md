@@ -60,6 +60,14 @@
 - Ejecutamos *npm start*
 
 
+## Usar este repo en otro equipo.
+
+- Clonar el repositorio: *git clone ...*
+- Ir al directorio: *cd diapositivas*
+- Instalar las dependencias: *npm install*
+- Ejecutar: *npm start*
+
+
 
 #  Llevar nuestra presentación a GitHub
 
