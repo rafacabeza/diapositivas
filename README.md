@@ -1,4 +1,4 @@
-# Diapositivas con Reveal.js y Markdonw
+# Diapositivas con Reveal.js y Markdown
 
 
 ## Dos opciones
