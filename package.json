@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "reveal-md": "^3.0.4"
+    "reveal-md": "^5.4.0"
   }
 }
